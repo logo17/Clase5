@@ -61,19 +61,19 @@ class MailListFragment : Fragment() {
     }
 
     private fun getDummyMailList() : List<Mail> {
-        return emptyList()
-//        return listOf(
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", true),
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", true),
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
-//            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false)
-//        )
+//        return emptyList()
+        return listOf(
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", true),
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", true),
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false),
+            Mail("Heriberto Urena", "test@test.com", "https://futureindustrycongress.com/wp-content/uploads/2015/04/speaker-3-v2.jpg", false)
+        )
     }
 }
